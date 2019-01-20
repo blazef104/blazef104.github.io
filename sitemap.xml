@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://giulioginesi.com/projects/research/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/posts/fist/</loc>
+    <lastmod>2018-03-10T14:33:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/tags/avionics/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/posts/</loc>
+    <lastmod>2018-03-10T14:33:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/projects/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/tags/research/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/categories/research/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/tags/security/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/categories/security/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/tags/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/tags/tools/</loc>
+    <lastmod>2018-07-29T17:57:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

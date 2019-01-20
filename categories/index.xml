@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Little Personal Space</title>
+    <link>https://giulioginesi.com/categories/</link>
+    <description>Recent content in Categories on Little Personal Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://giulioginesi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://giulioginesi.com/categories/research/</link>
+      <pubDate>Sun, 29 Jul 2018 17:57:06 +0200</pubDate>
+      
+      <guid>https://giulioginesi.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://giulioginesi.com/categories/security/</link>
+      <pubDate>Sun, 29 Jul 2018 17:57:06 +0200</pubDate>
+      
+      <guid>https://giulioginesi.com/categories/security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

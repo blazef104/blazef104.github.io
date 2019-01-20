@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Little Personal Space</title>
+    <link>https://giulioginesi.com/projects/</link>
+    <description>Recent content in Projects on Little Personal Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jul 2018 17:57:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://giulioginesi.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research Results</title>
+      <link>https://giulioginesi.com/projects/research/</link>
+      <pubDate>Sun, 29 Jul 2018 17:57:06 +0200</pubDate>
+      
+      <guid>https://giulioginesi.com/projects/research/</guid>
+      <description>My first research was not very productive in term of results, however i learned a lot and it was very interesting. Living in Finland was not easy but it turned out to be really fun and beautiful.
+We produced different tools that can, hopefully, help other people expanding our work in this field. They can be found here and as I continue to explore this field in my free time I hope I will be able to expand the repository more.</description>
+    </item>
+    
+  </channel>
+</rss>

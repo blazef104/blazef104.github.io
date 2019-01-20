@@ -1,0 +1,39 @@
+.logo{
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  max-width: 200px;
+  max-height: 200px;
+  display: block;
+}
+
+.prof{
+  margin: auto;
+  margin-top: 5%;
+  max-width: 200px;
+  max-height: 194px;
+  border-radius: 100px;
+  display: none;
+}
+
+@keyframes rot {
+    from {
+      -webkit-transform: rotateY(0deg); /* Safari */
+      transform: rotateY(0deg);
+  }
+    to {
+      -webkit-transform: rotateY(150deg); /* Safari */
+      transform: rotateY(150deg);
+  }
+}
+
+@keyframes rot1 {
+  from {
+    -webkit-transform: rotateY(40deg); /* Safari */
+    transform: rotateY(40deg);
+  }
+  to {
+    -webkit-transform: rotateY(0deg); /* Safari */
+    transform: rotateY(0deg);
+  }
+}

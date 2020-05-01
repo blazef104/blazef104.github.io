@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Little Personal Space</title>
+    <link>https://giulioginesi.com/categories/</link>
+    <description>Recent content in Categories on Little Personal Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc/4.0/&#34;&gt;CC-BY-NC-4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://giulioginesi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

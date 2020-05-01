@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://giulioginesi.com/it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://giulioginesi.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://giulioginesi.com/it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://giulioginesi.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://giulioginesi.com/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://giulioginesi.com/it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://giulioginesi.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://giulioginesi.com/it/tags/"
+                />
+  </url>
+  
+</urlset>

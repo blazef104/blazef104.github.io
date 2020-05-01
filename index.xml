@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Little Personal Space</title>
+    <link>https://giulioginesi.com/</link>
+    <description>Recent content on Little Personal Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc/4.0/&#34;&gt;CC-BY-NC-4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://giulioginesi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://giulioginesi.com/about/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://giulioginesi.com/about/</guid>
+      <description>Hi I’m Giulio. I have a BSc in Systems and Network Security from the University of Milan, Italy. In 2018 I participate in a research project on the security of avionics protocols at University of Jyväskylä, Finland.
+I have a strong passion for technology, security and programming. I love Python and C++ and I’m really interested in low level code and hardware hacking. In my free time I am also interested in AI and Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://giulioginesi.com/posts/2020/04/first-post/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://giulioginesi.com/posts/2020/04/first-post/</guid>
+      <description>First post!</description>
+    </item>
+    
+  </channel>
+</rss>

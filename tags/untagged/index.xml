@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Random Access Memories</title>
+    <link>https://giulioginesi.com/tags/untagged/</link>
+    <description>Recent content in untagged on Random Access Memories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 00:51:43 +0000</lastBuildDate><atom:link href="https://giulioginesi.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://giulioginesi.com/posts/2021/03/first_post/</link>
+      <pubDate>Sun, 28 Mar 2021 00:51:43 +0000</pubDate>
+      
+      <guid>https://giulioginesi.com/posts/2021/03/first_post/</guid>
+      <description>First Post!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,26 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://giulioginesi.com/posts/2021/03/first_post/</loc>
-    <lastmod>2021-03-28T00:51:43+00:00</lastmod>
-  </url><url>
-    <loc>https://giulioginesi.com/posts/</loc>
-    <lastmod>2021-03-28T00:51:43+00:00</lastmod>
-  </url><url>
-    <loc>https://giulioginesi.com/</loc>
-    <lastmod>2021-03-28T00:51:43+00:00</lastmod>
-  </url><url>
-    <loc>https://giulioginesi.com/tags/</loc>
-    <lastmod>2021-03-28T00:51:43+00:00</lastmod>
-  </url><url>
-    <loc>https://giulioginesi.com/tags/untagged/</loc>
-    <lastmod>2021-03-28T00:51:43+00:00</lastmod>
-  </url><url>
     <loc>https://giulioginesi.com/about/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://giulioginesi.com/categories/</loc>
   </url><url>
+    <loc>https://giulioginesi.com/</loc>
+  </url><url>
     <loc>https://giulioginesi.com/series/</loc>
+  </url><url>
+    <loc>https://giulioginesi.com/tags/</loc>
   </url>
 </urlset>

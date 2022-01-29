@@ -6,28 +6,18 @@
     <description>Recent content on Random Access Memories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 28 Mar 2021 00:51:43 +0000</lastBuildDate><atom:link href="https://giulioginesi.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First_post</title>
-      <link>https://giulioginesi.com/posts/2021/03/first_post/</link>
-      <pubDate>Sun, 28 Mar 2021 00:51:43 +0000</pubDate>
-      
-      <guid>https://giulioginesi.com/posts/2021/03/first_post/</guid>
-      <description>First Post!</description>
-    </item>
-    
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://giulioginesi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://giulioginesi.com/about/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://giulioginesi.com/about/</guid>
-      <description>Hi I’m Giulio. I currently work as a Threat Hunter for an AV company.
+      <description>Hi I’m Giulio. I currently work as a Threat Hunter at F-Secure.
 I have a MSc in Cybersecurity from Sapienza University of Rome. Thesis here.
 My BSc is in Systems and Network Security from the University of Milan. Thesis here
 In 2018 I took part in a research project on the security of avionics protocols at University of Jyväskylä, Finland.
-I have a strong passion for technology, security and programming.</description>
+I have a strong passion for technology, security and programming. I love Python and C++ and I’m really interested in low level code and hardware hacking.</description>
     </item>
     
   </channel>

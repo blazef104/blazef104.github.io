@@ -1,0 +1,22 @@
+baseURL: https://giulioginesi.com/
+languageCode: en-us
+title: Giulio Ginesi
+theme: ["PaperMod"]
+params:
+  env: production
+  profileMode:
+    enabled: true
+    subtitle: "https://www.youtube.com/watch?v=B6WYSncwYoQ"
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Blog
+        url: "https://blog.giulioginesi.com/"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/blazef104"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/giulio-ginesi-37198a150"
+    - name: "email"
+      url: "mailto://info@giulioginesi.com"

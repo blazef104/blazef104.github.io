@@ -12,6 +12,8 @@ params:
         url: "/about"
       - name: Blog
         url: "https://blog.giulioginesi.com/"
+      - name: Apps
+        url: "/apps"
 
   socialIcons: # optional
     - name: "github"

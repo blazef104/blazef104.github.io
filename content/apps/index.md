@@ -10,4 +10,9 @@ comments: false  # Show comments?
 
 ---
 
-I am currently the main developer of IChing, for help and feedback write me at apps@giulioginesi.com
+I am the main developer of IChing and Tachi. 
+
+
+The images, text, music and other media in my apps are either copyright-free or used with permission. If you believe something has been used without your consent please contact me.
+
+For help and feedback, use apps@giulioginesi.com

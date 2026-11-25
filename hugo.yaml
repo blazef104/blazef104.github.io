@@ -8,8 +8,6 @@ params:
     enabled: true
     subtitle: "https://www.youtube.com/watch?v=B6WYSncwYoQ"
     buttons:
-      - name: About
-        url: "/about"
       - name: Blog
         url: "https://blog.giulioginesi.com/"
       - name: Apps
